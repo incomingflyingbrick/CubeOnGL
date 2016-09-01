@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/umeng/Desktop/sdk/MyHtml5/androidOpenGLVideoDemomaster/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/umeng/Desktop/sdk/MyHtml5/androidOpenGLVideoDemomaster/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]
